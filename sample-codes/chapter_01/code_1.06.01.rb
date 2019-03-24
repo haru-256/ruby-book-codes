@@ -2,5 +2,4 @@
 
 a = 'Hello, world!'
 a #=> "Hello, world!"
-
 exit

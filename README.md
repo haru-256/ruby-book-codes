@@ -20,3 +20,7 @@ Sample codes for "[プロを目指す人のためのRuby入門](http://gihyo.jp/
 ## Copyright
 
 &#9400; 伊藤 淳一（Junichi Ito）
+
+## Support Page
+
+https://ruby-book.jnito.com/
